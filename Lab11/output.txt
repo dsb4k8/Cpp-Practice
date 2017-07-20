@@ -1,0 +1,17 @@
+Integers: 
+Swapped items at positions 10 & 20.
+Before: [10] 78 [20] 81After: [10] 81 [20] 78Minumum: 2
+Maxinum: 99
+The number 1 is at position 32767The number 5 is at position 38
+
+Strings: 
+Swapped items at positions 10 & 20.
+Before: [10] Album [20] VacuumAfter: [10] Album [20] VacuumMinimum: Airport
+Maximum: X-ray
+
+
+Doubles: 
+Swapped items at positions 10 & 20.
+Before: [10] 78 [20] 81After: [10] 7.69861 [20] 7.21923Minumum: 0.00569
+Maximum: 9.9935
+ The double 4.62557 is at position 32767 The double 1.23456 is at position 38
